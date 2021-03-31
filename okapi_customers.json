@@ -1,0 +1,27 @@
+{
+    "okapi" : [{
+        "name" : "folijet",
+        "x_okapi_url" : "https://folijet-okapi.ci.folio.org",
+        "x_okapi_tenant" : "diku",
+        "x_okapi_token" : "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkaWt1X2FkbWluIiwidXNlcl9pZCI6ImEwMDg2ZjdlLTYxYjYtNWMyZC05ZTFiLWIyNjgwNjNhNDRiMyIsImlhdCI6MTYxNjUwNzM0MywidGVuYW50IjoiZGlrdSJ9.cMjC5rJUnUwBtZtCeb_CipEM_e2nj-CcvsWEOjiYQYk",
+        "content_type": "application/json",
+        "user" : "diku_admin",
+        "password" : "diku",
+        "x_okapi_version" : "3.1.4",
+        "x_okapi_release" : "Honeysuckle",
+        "x_okapi_status" : "True"
+      },
+      {
+        "name" : "Irisbugfest",
+        "x_okapi_url" : "https://okapi-bugfest-iris.folio.ebsco.com",
+        "x_okapi_tenant" : "fs09000000",
+        "x_okapi_token" : "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmb2xpbyIsInVzZXJfaWQiOiI5ZWI2NzMwMS02ZjZlLTQ2OGYtOWIxYS02MTM0ZGMzOWE2ODQiLCJpYXQiOjE2MTcxNTA4NTMsInRlbmFudCI6ImZzMDkwMDAwMDAifQ.8SYdnfyTdVaxvB_c3yDFV-nGNZi5pINL8IOsJyH3onY",
+        "content_type": "application/json",
+        "user" : "folio",
+        "password" : "folio",
+        "x_okapi_version" : "3.1.4",
+        "x_okapi_release" : "Honeysuckle",
+        "x_okapi_status" : "True"
+      }
+    ]
+}
